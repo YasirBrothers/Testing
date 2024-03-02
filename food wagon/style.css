@@ -1,0 +1,320 @@
+.btns{
+    border-radius: 10px;
+    border: transparent;
+    background-color: rgba(250, 245, 233, 0.963);
+    padding: 2px 15px;
+    box-shadow: 0px 3px 3px 3px rgb(241, 213, 161);
+}
+
+.logo{
+    width:200px;
+}
+
+.search{
+    width: 16px;
+}
+
+.search-1{
+    font-size: 16px;
+    color: rgb(91, 87, 87);
+}
+
+.user{
+    width: 16px;
+}
+
+.user-1{
+    font-size: 16px;
+    color: orange;
+}
+
+.first{
+    background-color:transparent;
+}
+
+.second{
+    background-color:transparent;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.third{
+    background-color:transparent;
+}
+
+.main{
+    background-color: orange;
+}
+
+.forth{
+    background-color:transparent;
+    
+}
+
+.fifth{
+    background-color:white;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+
+
+.heading{
+    margin-top: 90px;
+    font-size: 48px;
+    color: white;
+    font-weight: bolder;
+}
+
+
+.tab{
+    margin-top: 10px;
+    width: 120px;
+}
+
+.tab-1{
+    margin-top: 10px;
+    width: 120px;
+}
+
+.butn{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.btnn{
+    padding:8px 20px ;
+    background-color: rgb(240, 69, 50);
+    border-radius: 10px;
+    border-color: transparent;
+    margin-bottom: 20px;
+}
+
+.food-1{
+    color: white;
+}
+
+.macroni{
+    margin-top: 120px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+.container{
+    width: 80%;
+}
+
+/* .one{
+    background-color: transparent;
+    height: 300px;
+    width: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.one>img{
+    display: flex;
+    flex-wrap: ;
+}
+
+.two{
+    background-color:transparent;
+    height: 300px;
+    width: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.two>img{
+    display: flex;
+    flex-wrap: ;
+}
+.three{
+    background-color: transparent;
+    height: 300px;
+    width: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.three>img{
+    display: flex;
+    flex-wrap: ;
+}
+.four{
+    background-color: transparent;
+    height: 300px;
+    width: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.four>img{
+    display: flex;
+    flex-wrap: ;
+}
+.one-1{
+    width: 250px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main-1{
+    margin-top: 50px;
+} */
+
+
+.main-4{
+    
+    display: flex;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    height: auto;
+
+
+}
+
+.img-1>img{
+    width: 300px;
+    object-fit: cover;
+    display:flex;
+    flex-wrap: wrap;
+
+    
+}
+
+.img-2>img{
+    width: 300px;
+    object-fit: cover;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.img-3>img{
+    width: 300px;
+    object-fit: cover;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img-4>img{
+    width: 300px;
+    object-fit: cover;
+    display: flex;
+    flex-wrap: wrap;
+   
+   }
+
+
+   .work{
+    
+    display: flex;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    height: auto;
+    background-color: transparent;
+
+
+}
+
+.work>p{
+    font-size: 24px;
+    font-weight: bolder;
+    color: orange;
+    align-items: center;
+
+}
+
+.how{
+    background-color: rgb(252, 245, 245);
+}
+
+
+.main-4{
+    
+    display: flex;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    height: auto;
+
+
+}
+
+.item-1>img{
+    width: 180px;
+    object-fit: cover;
+    display:flex;
+    flex-wrap: wrap;
+
+    
+}
+
+.item-2>img{
+    width: 180px;
+    object-fit: cover;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.item-3>img{
+    width: 180px;
+    object-fit: cover;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item-4>img{
+    width: 180px;
+    object-fit: cover;
+   
+   }
+
+   .item-5>img{
+    width: 180px;
+    object-fit: cover;
+   
+   }
+
+
+   .items{
+    
+    display: flex;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    height: auto;
+    background-color: transparent;
+
+
+}
+
+.items>p{
+    font-size: 24px;
+    font-weight: bolder;
+    color: black;
+    align-items: center;
+
+}
+
+.arrowr>img{
+    width: 70px;
+    margin-top: 50px;
+}
+
+.view{
+    background-color: #FFBA26;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 45px;
+    font-size: 14px ;
+    font-weight: bolder;
+    color: white;
+    box-shadow: 0px 5px 5px 5px rgb(241, 213, 161);
+}
+
+
+  
+   
